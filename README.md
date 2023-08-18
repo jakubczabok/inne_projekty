@@ -1,1 +1,1 @@
-# symulacje fizyczne i różne zadania programistyczne typu LeetCode
+# symulacje fizyczne i różne zadania programistyczne 
